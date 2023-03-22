@@ -1,0 +1,13 @@
+{
+  "wm_config": {
+    "bytes_per_second": 1,
+    "wm_bits": "hello world",
+    "wm_size": 88
+  },
+  "infile": "/Users/jiahao.chen/PycharmProjects/watermark/data/dst.mp4",
+  "outfile": "/Users/jiahao.chen/PycharmProjects/watermark/data/dst.mp4",
+  "output_format": "hevc",
+  "output_raw_bits": "/Users/jiahao.chen/PycharmProjects/watermark/data/wm_bits.npy",
+  "bit_rate": null
+}
+
